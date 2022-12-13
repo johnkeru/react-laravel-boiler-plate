@@ -8,7 +8,7 @@ To install this project, follow these steps:
 
 1. Clone the repository:
 
--   git clone <repo>
+-   git clone https://github.com/johnkeru/react-laravel-boiler-plate.git
 
 2. Go to the working directory:
 
